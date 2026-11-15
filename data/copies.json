@@ -1,0 +1,57 @@
+[
+  {
+    "copy_id": "BOOK-001-COPY-01",
+    "book_id": "BOOK-001",
+    "status": "Available"
+  },
+  {
+    "copy_id": "BOOK-001-COPY-02",
+    "book_id": "BOOK-001",
+    "status": "Available"
+  },
+  {
+    "copy_id": "BOOK-001-COPY-03",
+    "book_id": "BOOK-001",
+    "status": "Disabled"
+  },
+  {
+    "copy_id": "BOOK-002-COPY-01",
+    "book_id": "BOOK-002",
+    "status": "Issued"
+  },
+  {
+    "copy_id": "BOOK-002-COPY-02",
+    "book_id": "BOOK-002",
+    "status": "Available"
+  },
+  {
+    "copy_id": "BOOK-003-COPY-01",
+    "book_id": "BOOK-003",
+    "status": "Available"
+  },
+  {
+    "copy_id": "BOOK-004-COPY-01",
+    "book_id": "BOOK-004",
+    "status": "Available"
+  },
+  {
+    "copy_id": "BOOK-004-COPY-02",
+    "book_id": "BOOK-004",
+    "status": "Available"
+  },
+  {
+    "copy_id": "BOOK-005-COPY-01",
+    "book_id": "BOOK-005",
+    "status": "Issued"
+  },
+  {
+    "copy_id": "BOOK-005-COPY-02",
+    "book_id": "BOOK-005",
+    "status": "Issued"
+  },
+  {
+    "copy_id": "BOOK-006-COPY-01",
+    "book_id": "BOOK-006",
+    "status": "Available"
+  }
+]

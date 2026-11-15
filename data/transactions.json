@@ -1,0 +1,222 @@
+[
+  {
+    "txn_id": "TXN-00001",
+    "student_id": "STU-001",
+    "book_id": "BOOK-001",
+    "copy_id": "BOOK-001-COPY-01",
+    "issue_date": "2026-06-18",
+    "due_date": "2026-07-02",
+    "return_date": "2026-06-27",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00002",
+    "student_id": "STU-002",
+    "book_id": "BOOK-002",
+    "copy_id": "BOOK-002-COPY-01",
+    "issue_date": "2026-06-27",
+    "due_date": "2026-07-11",
+    "return_date": "2026-07-07",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00003",
+    "student_id": "STU-003",
+    "book_id": "BOOK-005",
+    "copy_id": "BOOK-005-COPY-01",
+    "issue_date": "2026-07-06",
+    "due_date": "2026-07-20",
+    "return_date": "2026-07-17",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00004",
+    "student_id": "STU-004",
+    "book_id": "BOOK-001",
+    "copy_id": "BOOK-001-COPY-01",
+    "issue_date": "2026-07-15",
+    "due_date": "2026-07-29",
+    "return_date": "2026-07-27",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00005",
+    "student_id": "STU-005",
+    "book_id": "BOOK-004",
+    "copy_id": "BOOK-004-COPY-01",
+    "issue_date": "2026-07-24",
+    "due_date": "2026-08-07",
+    "return_date": "2026-08-06",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00006",
+    "student_id": "STU-006",
+    "book_id": "BOOK-002",
+    "copy_id": "BOOK-002-COPY-01",
+    "issue_date": "2026-08-02",
+    "due_date": "2026-08-16",
+    "return_date": "2026-08-11",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00007",
+    "student_id": "STU-001",
+    "book_id": "BOOK-005",
+    "copy_id": "BOOK-005-COPY-01",
+    "issue_date": "2026-08-11",
+    "due_date": "2026-08-25",
+    "return_date": "2026-08-21",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00008",
+    "student_id": "STU-002",
+    "book_id": "BOOK-006",
+    "copy_id": "BOOK-006-COPY-01",
+    "issue_date": "2026-08-20",
+    "due_date": "2026-09-03",
+    "return_date": "2026-08-31",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00009",
+    "student_id": "STU-003",
+    "book_id": "BOOK-001",
+    "copy_id": "BOOK-001-COPY-01",
+    "issue_date": "2026-08-29",
+    "due_date": "2026-09-12",
+    "return_date": "2026-09-10",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00010",
+    "student_id": "STU-004",
+    "book_id": "BOOK-003",
+    "copy_id": "BOOK-003-COPY-01",
+    "issue_date": "2026-09-07",
+    "due_date": "2026-09-21",
+    "return_date": "2026-09-20",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00011",
+    "student_id": "STU-005",
+    "book_id": "BOOK-002",
+    "copy_id": "BOOK-002-COPY-01",
+    "issue_date": "2026-09-16",
+    "due_date": "2026-09-30",
+    "return_date": "2026-09-25",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00012",
+    "student_id": "STU-006",
+    "book_id": "BOOK-005",
+    "copy_id": "BOOK-005-COPY-01",
+    "issue_date": "2026-09-25",
+    "due_date": "2026-10-09",
+    "return_date": "2026-10-05",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00013",
+    "student_id": "STU-001",
+    "book_id": "BOOK-004",
+    "copy_id": "BOOK-004-COPY-01",
+    "issue_date": "2026-10-04",
+    "due_date": "2026-10-18",
+    "return_date": "2026-10-15",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00014",
+    "student_id": "STU-002",
+    "book_id": "BOOK-001",
+    "copy_id": "BOOK-001-COPY-01",
+    "issue_date": "2026-10-13",
+    "due_date": "2026-10-27",
+    "return_date": "2026-10-25",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00015",
+    "student_id": "STU-003",
+    "book_id": "BOOK-006",
+    "copy_id": "BOOK-006-COPY-01",
+    "issue_date": "2026-10-22",
+    "due_date": "2026-11-05",
+    "return_date": "2026-11-04",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00016",
+    "student_id": "STU-004",
+    "book_id": "BOOK-002",
+    "copy_id": "BOOK-002-COPY-01",
+    "issue_date": "2026-10-31",
+    "due_date": "2026-11-14",
+    "return_date": "2026-11-09",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00017",
+    "student_id": "STU-001",
+    "book_id": "BOOK-001",
+    "copy_id": "BOOK-001-COPY-01",
+    "issue_date": "2026-11-12",
+    "due_date": "2026-11-26",
+    "return_date": "2026-11-15",
+    "status": "Returned",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00018",
+    "student_id": "STU-002",
+    "book_id": "BOOK-002",
+    "copy_id": "BOOK-002-COPY-01",
+    "issue_date": "2026-11-10",
+    "due_date": "2026-11-24",
+    "return_date": null,
+    "status": "Issued",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00019",
+    "student_id": "STU-003",
+    "book_id": "BOOK-005",
+    "copy_id": "BOOK-005-COPY-01",
+    "issue_date": "2026-10-26",
+    "due_date": "2026-11-09",
+    "return_date": null,
+    "status": "Issued",
+    "fine": 0
+  },
+  {
+    "txn_id": "TXN-00020",
+    "student_id": "STU-001",
+    "book_id": "BOOK-005",
+    "copy_id": "BOOK-005-COPY-02",
+    "issue_date": "2026-11-15",
+    "due_date": "2026-11-29",
+    "return_date": null,
+    "status": "Issued",
+    "fine": 0
+  }
+]

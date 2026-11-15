@@ -1,0 +1,10 @@
+[
+  {
+    "res_id": "RES-0001",
+    "student_id": "STU-002",
+    "book_id": "BOOK-005",
+    "date": "2026-11-15",
+    "status": "Pending",
+    "copy_id": null
+  }
+]

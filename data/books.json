@@ -1,0 +1,62 @@
+[
+  {
+    "book_id": "BOOK-001",
+    "isbn": "978-0262033848",
+    "title": "Introduction to Algorithms",
+    "author": "Thomas H. Cormen",
+    "category": "Computer Science",
+    "publisher": "MIT Press",
+    "total_copies": 3,
+    "shelf": "A-01"
+  },
+  {
+    "book_id": "BOOK-002",
+    "isbn": "978-1119800363",
+    "title": "Operating System Concepts",
+    "author": "Abraham Silberschatz",
+    "category": "Computer Science",
+    "publisher": "Wiley",
+    "total_copies": 2,
+    "shelf": "A-02"
+  },
+  {
+    "book_id": "BOOK-003",
+    "isbn": "978-0134494166",
+    "title": "Clean Architecture",
+    "author": "Robert C. Martin",
+    "category": "Software Engineering",
+    "publisher": "Pearson",
+    "total_copies": 1,
+    "shelf": "B-01"
+  },
+  {
+    "book_id": "BOOK-004",
+    "isbn": "978-1491912058",
+    "title": "Python Data Science Handbook",
+    "author": "Jake VanderPlas",
+    "category": "Data Science",
+    "publisher": "O'Reilly",
+    "total_copies": 2,
+    "shelf": "C-01"
+  },
+  {
+    "book_id": "BOOK-005",
+    "isbn": "978-0132350884",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "category": "Software Engineering",
+    "publisher": "Prentice Hall",
+    "total_copies": 2,
+    "shelf": "B-02"
+  },
+  {
+    "book_id": "BOOK-006",
+    "isbn": "978-0134685991",
+    "title": "Effective Java",
+    "author": "Joshua Bloch",
+    "category": "Programming",
+    "publisher": "Addison-Wesley",
+    "total_copies": 1,
+    "shelf": "B-03"
+  }
+]

@@ -1,0 +1,50 @@
+[
+  {
+    "student_id": "STU-001",
+    "name": "Aarav Reddy",
+    "department": "CSE",
+    "email": "aarav@college.edu",
+    "phone": "9876543201",
+    "registered": "2026-05-09"
+  },
+  {
+    "student_id": "STU-002",
+    "name": "Diya Sharma",
+    "department": "CSE",
+    "email": "diya@college.edu",
+    "phone": "9876543202",
+    "registered": "2026-05-19"
+  },
+  {
+    "student_id": "STU-003",
+    "name": "Rohan Patel",
+    "department": "IT",
+    "email": "rohan@college.edu",
+    "phone": "9876543203",
+    "registered": "2026-05-29"
+  },
+  {
+    "student_id": "STU-004",
+    "name": "Sneha Rao",
+    "department": "ECE",
+    "email": "sneha@college.edu",
+    "phone": "9876543204",
+    "registered": "2026-06-08"
+  },
+  {
+    "student_id": "STU-005",
+    "name": "Karthik Nair",
+    "department": "AIML",
+    "email": "karthik@college.edu",
+    "phone": "9876543205",
+    "registered": "2026-06-18"
+  },
+  {
+    "student_id": "STU-006",
+    "name": "Meera Iyer",
+    "department": "IT",
+    "email": "meera@college.edu",
+    "phone": "9876543206",
+    "registered": "2026-06-28"
+  }
+]
